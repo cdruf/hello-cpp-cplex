@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+### Christian's custom entries
+
+# build folders
+build/
+cmake-build-debug/
+manual_build/
+
